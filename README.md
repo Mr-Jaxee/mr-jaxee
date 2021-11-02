@@ -4,7 +4,7 @@ My name is Alexander and I am a backend programmer. I am from Russia, I live in 
 
 ### 📺 Channel
 
-Apart from coding, I also maintain a YouTube channel - you can find my videos at [ExtremeCode](https://youtube.com/extremecode)
+Apart from coding, I also maintain a YouTube channel - you can find my videos at [Jaxee](https://www.youtube.com/channel/UCN4WMA-kU57j6xeKF5tTwCA)
 
 ### 🔧 Technologies & Tools
 
