@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/extremecodetv/extremecodetv/master/wave.gif" width="25px"> Hi there! 
+## <img src="https://raw.githubusercontent.com/Mr-Jaxee/mr-jaxee/master/wave.gif" width="25px"> Hi there! 
 
 My name is Alexander and I am a backend programmer. I am from Russia, I live in Moscow and now I am working at home on my discord bot.
 
